@@ -1,16 +1,18 @@
 ## Hi there 👋
+👨🏻‍💻 About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying Java Backend developer at Develhope.
+🌱   Currently Learning web application with Springboot.
+Open for project collaboration and internship opportunities.
+🛠 Tech Stack
+💻   Java | Javascript 
+🌐   HTML | Node.js 
+🎮   Unity
+🛢   MySQL | MongoDB
+🔧   Git | Postman API | GitHub
 
-<!--
-**ValentinaFo/ValentinaFo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📫🤝🏻 Connect with Me
+Connect with me on LinkedIn 👨🏻‍💻 www.linkedin.com/in/valentina-foti-
+Shoot Me an Email 💌 valentinafoti59@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
