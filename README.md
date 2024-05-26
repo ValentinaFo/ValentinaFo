@@ -4,9 +4,13 @@
 🎓   Studying Java Backend developer at Develhope.
 🌱   Currently Learning web application with Springboot.
 Open for project collaboration and internship opportunities.
+
+
+
+
 🛠 Tech Stack
 💻   Java | Javascript 
-🌐   HTML | Node.js 
+🌐   HTML |  
 🎮   Unity
 🛢   MySQL | MongoDB
 🔧   Git | Postman API | GitHub
